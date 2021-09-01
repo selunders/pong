@@ -1,5 +1,5 @@
 # PONG
-Created for CS383
+Created for CS383.
 This is a recreation of the classic video-game Pong.
 ## Quick Launch:
 
