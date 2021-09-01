@@ -1,6 +1,6 @@
 # PONG
 Created for CS383
-This is a recreation of the classic video-game Pong. It also includes some 
+This is a recreation of the classic video-game Pong.
 ## Quick Launch:
 
 1.  Double-click the Pong.exe file and it will run.
