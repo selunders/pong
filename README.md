@@ -3,7 +3,7 @@ Created for CS383
 This is a recreation of the classic video-game Pong. It also includes some 
 ## Quick Launch:
 
-1.  Double-click the pong.exe file and it will run.
+1.  Double-click the Pong.exe file and it will run.
 2.  Follow the on-screen instructions to play.
 
 ## Compiling the code
